@@ -12,9 +12,16 @@
   <img alt="dotnet" src="https://img.shields.io/badge/-dotnetcore-43853d?style=flat-square&logo=dotnet&logoColor=white" /> 
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-   <img alt="Azure" src="https://img.shields.io/badge/-Azure-43853d?style=flat-square&logo=Azure&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-43853d?style=flat-square&logo=Azure&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=red"/> 
+  <img alt="Groovy" src="https://img.shields.io/badge/-Groovy-43853d?style=flat-square&logo=npm&logoColor=red"/> 
+  
 </p>
 
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+  
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anoopsimon&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br>
