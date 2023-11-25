@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anoop Simon
-- 👀 I’m interested in Test Automation [DotNet Core / Java / Javascript] 
-- 🌱 I’m currently learning Application development for Azure Cloud
+- 👋 Hi, I’m Anoop
+- 👀 I’m interested in Test Automation [DotNet Core / Java / Javascript / Docker] 
+- 🌱 I’m currently learning Application development for Cloud
 - 💞️ I’m looking to collaborate on Test Automation projects
 - 📫 Reach me via email s451421990@gmail.com
 
