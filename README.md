@@ -1,18 +1,18 @@
 - 👋 Hi, I’m Anoop
-- 👀 I’m interested in Test Automation [DotNet Core / Java / Javascript / Docker] 
+- 👀 I’m interested in Test Automation [`Go, NetCore, Javascript, Java`] 
 - 🌱 I’m currently learning Application development for Cloud
 - 💞️ I’m looking to collaborate on Test Automation projects
 - 📫 Reach me via email s451421990@gmail.com
 
 <h3>Things I code with</h3>
 <p>
-    <img alt="Go" src="https://img.shields.io/badge/-Go-46a2f1?style=flat-square&logo=go&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-46a2f1?style=flat-square&logo=go&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="dotnet" src="https://img.shields.io/badge/-dotnetcore-43853d?style=flat-square&logo=dotnet&logoColor=white" /> 
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-43853d?style=flat-square&logo=Azure&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=red"/> 
   <img alt="Groovy" src="https://img.shields.io/badge/-Groovy-43853d?style=flat-square&logo=npm&logoColor=red"/> 
