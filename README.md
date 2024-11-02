@@ -1,36 +1,49 @@
-- 👋 Hi, I’m Anoop
-- 👀 I’m interested in Test Automation [`Go, NetCore, Javascript, Java`] 
-- 🌱 I’m currently learning Application development for Cloud
-- 💞️ I’m looking to collaborate on Test Automation projects
-- 📫 Reach me via email s451421990@gmail.com
+<h1 align="center">Hey there! 👋 I'm Anoop</h1>
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="Go" src="https://img.shields.io/badge/-Go-46a2f1?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="dotnet" src="https://img.shields.io/badge/-dotnetcore-43853d?style=flat-square&logo=dotnet&logoColor=white" /> 
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-43853d?style=flat-square&logo=Azure&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-43853d?style=flat-square&logo=java&logoColor=red"/> 
-  <img alt="Groovy" src="https://img.shields.io/badge/-Groovy-43853d?style=flat-square&logo=npm&logoColor=red"/> 
-  
-</p>
-
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-  
 <p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anoopsimon&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopsimon&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+  <i>Test Automation Specialist | Software Developer </i>
 </p>
 
-  <h3>Where to find me</h3>
-<p><a href="https://github.com/anoopsimon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-   <a href="https://www.linkedin.com/in/anoop-simon-6331b050" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+---
 
+### 🧑‍💻 About Me
+- 💼 Experienced in **Test Automation** across various stacks (`golang, .netcore, javascript, java,typescript`)
+- 🌱 Currently exploring **Cloud Application Development**
+- 💬 Open to collaborations on **Automation Projects** 
+- 📫 Contact me: [Email](mailto:s451421990@gmail.com)
+
+---
+
+### 🛠️ Technologies & Tools
+<p align="left">
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="Dotnet" src="https://img.shields.io/badge/-.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" /> 
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Groovy" src="https://img.shields.io/badge/-Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![anoopsimon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anoopsimon&theme=vue-dark&hide_border=true)
+![anoopsimon's Stats](https://github-readme-stats.vercel.app/api?username=anoopsimon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![anoopsimon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoopsimon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
+---
+
+### 🌍 Connect with Me
+<p align="center">
+  <a href="https://github.com/anoopsimon" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/anoop-simon-6331b050" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
