@@ -36,6 +36,9 @@
 ![anoopsimon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoopsimon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anoopsimon&theme=flat&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 ---
 
 ### 🌍 Connect with Me
